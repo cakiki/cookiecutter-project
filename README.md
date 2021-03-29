@@ -1,7 +1,8 @@
 <h1 align="center">
 <p>Project Name</a></p>
 </h1>
-## Project Organization
+
+### Project Organization
 <details>
 <summary><b>Hierarchy</b>
 </summary>
