@@ -2,11 +2,17 @@
 <p>Project Name</a></p>
 </h1>
 
+### Project Description
+<details>
+<summary><b>Abstract</b>
+</summary>
+<p>
+
 ### Project Organization
 <details>
 <summary><b>Hierarchy</b>
 </summary>
-<p>------------
+<p>
 
 Run the following command to generate the directory structure: 
 
