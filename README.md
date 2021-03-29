@@ -2,7 +2,25 @@
 <p>Project Name</a></p>
 </h1>
 
-## Project Organization
+### Project Description
+<details>
+<summary><b>Goals</b>
+</summary>
+<p>
+
+TODO
+</p>
+</details>
+
+<details>
+<summary><b>Abstract</b>
+</summary>
+<p>
+TODO
+</p>
+</details>
+
+### Project Organization
 <details>
 <summary><b>Hierarchy</b>
 </summary>
