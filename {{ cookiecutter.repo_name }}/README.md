@@ -1,5 +1,5 @@
 <h1 align="center">
-<p>{{ cookicutter.project_name}}</a></p>
+<p>{{ cookiecutter.project_name}}</a></p>
 </h1>
 
 ### Project Description
