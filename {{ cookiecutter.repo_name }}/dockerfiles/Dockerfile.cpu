@@ -1,0 +1,14 @@
+FROM jupyter/base-notebook:latest
+
+USER root
+
+RUN set -x \
+  && apt-get update \
+  && apt-get install -y --no-install-recommends \
+    git git lfs \    
+  && rm -rf /var/lib/apt/lists/*
+
+
+USER $NB_UID
+
+RUN pip install --use-feature=2020-resolver pandas transformers datasets[streaming] nltk ipywidgets elasticsearch-dsl elasticsearch
